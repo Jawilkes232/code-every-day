@@ -13,3 +13,11 @@
 **Thoughts**: I thought I was sly in trying to use a math.log function but that didn't work. I did however learned that JS has Bit Wise operations!
 
 **Code Challenge** /challenges/countTheBits
+
+### Day 2: April 8th 2021 (Example 2)
+
+**Today's Progress**: Finished Smallest String Challenge
+
+**Thoughts**: String manipulation is much much easier with Python that JS
+
+**Code Challenge** /challenges/cc_more_python
