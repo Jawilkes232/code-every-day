@@ -21,3 +21,35 @@
 **Thoughts**: String manipulation is much much easier with Python that JS
 
 **Code Challenge** /challenges/cc_more_python
+
+### Day 3: April 8th 2021 (Example 2)
+
+**Today's Progress**: Working on Webscraper
+
+**Thoughts**: I'm finding out I need to go back to my roots in python so I can stop googling as much
+
+**Code Challenge** webscraper
+
+### Day 4: April 8th 2021 (Example 2)
+
+**Today's Progress**: Adding webscraper to AWS
+
+**Thoughts**: I'm thinking I need to containerize my webscraper to get it to work in the cloud.
+
+**Code Challenge** Web Scraper
+
+### Day 5: April 8th 2021 (Example 2)
+
+**Today's Progress**: Finished Smallest String Challenge
+
+**Thoughts**: String manipulation is much much easier with Python that JS
+
+**Code Challenge** /challenges/cc_more_python
+
+### Day 6: April 8th 2021 (Example 2)
+
+**Today's Progress**: Finished Smallest String Challenge
+
+**Thoughts**: String manipulation is much much easier with Python that JS
+
+**Code Challenge** /challenges/cc_more_python
