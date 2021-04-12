@@ -48,8 +48,8 @@
 
 ### Day 6: April 8th 2021 (Example 2)
 
-**Today's Progress**: Finished Smallest String Challenge
+**Today's Progress**: Library searching
 
-**Thoughts**: String manipulation is much much easier with Python that JS
+**Thoughts**: Playing around with all that python can offer. There are some really in depth libraries
 
-**Code Challenge** /challenges/cc_more_python
+**Code Challenge** none
