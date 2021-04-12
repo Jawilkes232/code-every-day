@@ -30,7 +30,7 @@
 
 **Code Challenge** webscraper
 
-### Day 4: April 8th 2021 (Example 2)
+### Day 4: April 9th 2021 (Example 2)
 
 **Today's Progress**: Adding webscraper to AWS
 
@@ -38,7 +38,7 @@
 
 **Code Challenge** Web Scraper
 
-### Day 5: April 8th 2021 (Example 2)
+### Day 5: April 10th 2021 (Example 2)
 
 **Today's Progress**: WEB Scraper
 
@@ -46,10 +46,18 @@
 
 **Code Challenge** WebScraper
 
-### Day 6: April 8th 2021 (Example 2)
+### Day 6: April 11th 2021 (Example 2)
 
 **Today's Progress**: Library searching
 
 **Thoughts**: Playing around with all that python can offer. There are some really in depth libraries
 
 **Code Challenge** none
+
+### Day 7: April 12th 2021 (Example 2)
+
+**Today's Progress**: Django Routes!
+
+**Thoughts**: Getting in depth more into Python I have found a need for a vscode extension for clear tab markers
+
+**Code Challenge** Artist/Song App
