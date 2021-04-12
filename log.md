@@ -40,11 +40,11 @@
 
 ### Day 5: April 8th 2021 (Example 2)
 
-**Today's Progress**: Finished Smallest String Challenge
+**Today's Progress**: WEB Scraper
 
-**Thoughts**: String manipulation is much much easier with Python that JS
+**Thoughts**: Finished webscraper logic!!
 
-**Code Challenge** /challenges/cc_more_python
+**Code Challenge** WebScraper
 
 ### Day 6: April 8th 2021 (Example 2)
 
