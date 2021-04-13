@@ -61,3 +61,11 @@
 **Thoughts**: Getting in depth more into Python I have found a need for a vscode extension for clear tab markers
 
 **Code Challenge** Artist/Song App
+
+### Day 8: April 13th 2021
+
+**Today's Progress**: Django Routes!
+
+**Thoughts**: After building a Django Monolith app, I've decided to stick to django rest framework and react
+
+**Code Challenge** Books app
