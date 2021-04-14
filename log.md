@@ -69,3 +69,11 @@
 **Thoughts**: After building a Django Monolith app, I've decided to stick to django rest framework and react
 
 **Code Challenge** Books app
+
+### Day 9: April 14th 2021
+
+**Today's Progress**: Django User Auth
+
+**Thoughts**: After Testing out building User Auth through Django, I've noticed that it is significantly easier than doing it in Node
+
+**Code Challenge** Books app
