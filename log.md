@@ -77,3 +77,12 @@
 **Thoughts**: After Testing out building User Auth through Django, I've noticed that it is significantly easier than doing it in Node
 
 **Code Challenge** Books app
+
+### Day 10: April 15th 2021
+
+**Today's Progress**: Code challenges
+
+**Thoughts**:
+Another two Challenges that I tried in python that tell me that data manipulation is stil vastly easier than JS
+
+**Code Challenge** challenges/cc-more-python-part-two
