@@ -86,3 +86,12 @@
 Another two Challenges that I tried in python that tell me that data manipulation is stil vastly easier than JS
 
 **Code Challenge** challenges/cc-more-python-part-two
+
+### Day 11: April 15th 2021
+
+**Today's Progress**: Back to Web Scraper
+
+**Thoughts**:
+After finding out that the CAPTCHA was ruining my plans, I have started to move forward now that I have gained consistency in the backend.
+
+**Code Challenge** WebScraper
