@@ -87,7 +87,7 @@ Another two Challenges that I tried in python that tell me that data manipulatio
 
 **Code Challenge** challenges/cc-more-python-part-two
 
-### Day 11: April 15th 2021
+### Day 11: April 16th 2021
 
 **Today's Progress**: Back to Web Scraper
 
@@ -95,3 +95,21 @@ Another two Challenges that I tried in python that tell me that data manipulatio
 After finding out that the CAPTCHA was ruining my plans, I have started to move forward now that I have gained consistency in the backend.
 
 **Code Challenge** WebScraper
+
+### Day 12: April 17th 2021
+
+**Today's Progress**: CodeWars
+
+**Thoughts**:
+Working on getting futher than 6kyu
+
+**Code Challenge** codewars
+
+### Day 13: April 18th 2021
+
+**Today's Progress**: Code wars
+
+**Thoughts**:
+Getting better at python, I've noticed a 6kyu is easier than I thought in Python
+
+**Code Challenge** challenges/spinning_words.py
