@@ -113,3 +113,11 @@ Working on getting futher than 6kyu
 Getting better at python, I've noticed a 6kyu is easier than I thought in Python
 
 **Code Challenge** challenges/spinning_words.py
+
+### Day 14: April 18th 2021
+
+**Today's Progress**: Capstone
+
+**Thoughts**:
+After Builing social sign in, I managed to wipe my lambda functions... Rip 8+ hours of work
+**Code Challenge** Capstone
