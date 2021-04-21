@@ -114,10 +114,18 @@ Getting better at python, I've noticed a 6kyu is easier than I thought in Python
 
 **Code Challenge** challenges/spinning_words.py
 
-### Day 14: April 18th 2021
+### Day 14: April 19th 2021
 
 **Today's Progress**: Capstone
 
 **Thoughts**:
 After Builing social sign in, I managed to wipe my lambda functions... Rip 8+ hours of work
+**Code Challenge** Capstone
+
+### Day 15: April 20th 2021
+
+**Today's Progress**: Capstone
+
+**Thoughts**:
+Finally finished Oauth and got everything connected. It took way too long because Amplify does not have these things ironed out.
 **Code Challenge** Capstone
