@@ -129,3 +129,11 @@ After Builing social sign in, I managed to wipe my lambda functions... Rip 8+ ho
 **Thoughts**:
 Finally finished Oauth and got everything connected. It took way too long because Amplify does not have these things ironed out.
 **Code Challenge** Capstone
+
+### Day 16: April 22nd 2021
+
+**Today's Progress**: Capstone
+
+**Thoughts**:
+Made another scraper that is more dynamic
+**Code Challenge** Capstone
